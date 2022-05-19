@@ -5,7 +5,7 @@
   ],
   "secureProperties": [],
   "redeploymentEnabled": true,
-  "name": "com.mycompany:bookmyshow-ordermanagement:1.0.0-SNAPSHOT",
+  "name": "com.mycompany:bookmyshowtest:1.0.0-SNAPSHOT",
   "minMuleVersion": "4.4.0",
   "requiredProduct": "MULE_EE",
   "classLoaderModelLoaderDescriptor": {
